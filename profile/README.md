@@ -41,8 +41,7 @@
 
 | **회원가입 및 로그인 / Home**                                                   | **호스트의 요청 작성**                          | **스크랩 및 기사 요약**                                                   |
 |--------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| ![image](https://github.com/user-attachments/assets/c57483bc-1c86-4de0-988e-cefea5034dad)
- | ![image](https://github.com/user-attachments/assets/f76916f6-2fc6-4722-b6a5-465fe57725b4)
+| ![image](https://github.com/user-attachments/assets/c57483bc-1c86-4de0-988e-cefea5034dad) | ![image](https://github.com/user-attachments/assets/aae0fb90-ac9c-4cfb-bc10-edb1a7e153a4) | 
  | ![14](https://github.com/user-attachments/assets/a71edbc7-3a0b-461f-9adf-7ec309bf9690) |
 
 | **마인드맵 및 유사 기사 추천**                                                   | **전체 기사**                                                              | **내가 스크랩한 기사**                                                     |

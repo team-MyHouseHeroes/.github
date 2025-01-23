@@ -82,12 +82,8 @@
 
 | **이름**            | **역할**              |
 |---------------------|-----------------------|
-| [**노경희**](https://github.com/khee2)     | PM, Backend |
-| [**배정연**](https://github.com/bluishflame)  | Frontend  |
-| [**윤정원**](https://github.com/Yun-Jeongwon) | Data |
-| [**이채영**](https://github.com/alwaysY0ung)     | Backend  |
-| [**정지윤**](https://github.com/GeeYun086)     | Frontend  |
-| [**조수아**](https://github.com/sua0316)     | Data  |
+| [**한지수**](https://github.com/khee2)     | PM, Backend |
+| [**배정연**](https://github.com/bluishflame)  | PM, Frontend  |
 
 </br>
 

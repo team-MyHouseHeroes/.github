@@ -1,7 +1,6 @@
 # ✍️ ReadIT(리딧): 관심 직무의 IT 기사를 요약해드립니다! ✍️
-<img src="![image](https://github.com/user-attachments/assets/3dbcf244-b692-4526-b6b9-00dabc99bba5)
+![image](https://github.com/user-attachments/assets/f637768f-0306-48c2-b4dd-6a099cd42359)
 
-" /> </br>
 
 > 숙명여자대학교 SW중심대학사업단 2024 DACOS&SOLUX 연합해커톤 </br>
 > 기간 : 2024.11.2 ~ 2024.11.9 </br>

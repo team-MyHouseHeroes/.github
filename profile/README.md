@@ -1,4 +1,4 @@
-# ✍️ ReadIT(리딧): 관심 직무의 IT 기사를 요약해드립니다! ✍️
+# ✍️ 당신의 자취방은 이제 안전하다! 벌레 퇴치를 위한 영웅 매칭을 도와주는 '우리집 히어로즈' ✍️
 ![image](https://github.com/user-attachments/assets/f637768f-0306-48c2-b4dd-6a099cd42359)
 
 

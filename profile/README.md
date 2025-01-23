@@ -60,12 +60,10 @@
 
 | **분야**       | **사용 기술**                                 | 
 |----------------|---------------------------------------------|   
-| **[Frontend](https://github.com/Team4-ReadIT/readIT_frontend)**   | React Native, TypeScript                         |
-| **[Backend](https://github.com/Team4-ReadIT/ReadIT-Server)**    | Spring Boot, Java   
-| **[Data](https://github.com/Team4-ReadIT/ReadIT-Data)** |  Meta, Scikit-learn, Pandas, Numpy, Colab, Python
+| **[Frontend](https://github.com/team-MyHouseHeroes/myhouseheroes_frontend)**   | React Native, TypeScript                         |
+| **[Backend](https://github.com/team-MyHouseHeroes/myhouseheroes_backend)**    | Spring Boot, Java   
 | **Database**   | AWS S3, MySQL(RDS)                       |
-| **Deploy & CI/CD**      | Jenkins, Docker, AWS EC2  |
-| **Open API**        | Meta API    |
+
 
 </br>
 

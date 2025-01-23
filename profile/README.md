@@ -73,7 +73,8 @@
 
 ### 𝗦𝗲𝗿𝘃𝗶𝗰𝗲 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲
 
-<img src="https://github.com/user-attachments/assets/fc37a4b1-8833-4e27-a95d-e24bc94e9dad" alt="아키텍처 ReadIT" width="70%">
+![image](https://github.com/user-attachments/assets/8943b5c9-f328-45ef-87b0-e834a32cf6cf)
+
 
 </br>
 
@@ -81,7 +82,7 @@
 
 | **이름**            | **역할**              |
 |---------------------|-----------------------|
-| [**한지수**](https://github.com/khee2)     | PM, Backend |
+| [**한지수**](https://github.com/isuHan)     | PM, Backend |
 | [**배정연**](https://github.com/bluishflame)  | PM, Frontend  |
 
 </br>

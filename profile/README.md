@@ -43,9 +43,9 @@
 |--------------------------------------------------------------------------------|----------------------------------------------------------------------------|
 | ![image](https://github.com/user-attachments/assets/c57483bc-1c86-4de0-988e-cefea5034dad) | ![image](https://github.com/user-attachments/assets/aae0fb90-ac9c-4cfb-bc10-edb1a7e153a4) | 
 
-| **호스트의 매칭 요청 및 성공**                                                   | **전체 기사**                                                              | 
+| **호스트의 매칭 요청 및 수락**                                                   | **히어로의 매칭 요청 및 수락**                                                              | 
 |--------------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| ![image](https://github.com/user-attachments/assets/7a45d066-b718-41bd-b161-3540b5906ba7) | ![13](https://github.com/user-attachments/assets/3137fe25-ed53-4947-bbf7-b7ef734d0f7f) | ![16](https://github.com/user-attachments/assets/b87a9eac-a300-4d51-a2bc-d1f90def122e) |
+| ![image](https://github.com/user-attachments/assets/7a45d066-b718-41bd-b161-3540b5906ba7) | ![image](https://github.com/user-attachments/assets/e429d87e-85c8-4bb2-a9ac-56cab5fba5d4) |
 
 </br>
 

@@ -1,5 +1,6 @@
 # ✍️ ReadIT(리딧): 관심 직무의 IT 기사를 요약해드립니다! ✍️
-<img src="![image](https://github.com/user-attachments/assets/1ebec8a3-c9ff-48c5-8a54-d10a1bb86d87)
+<img src="![image](https://github.com/user-attachments/assets/3dbcf244-b692-4526-b6b9-00dabc99bba5)
+
 " /> </br>
 
 > 숙명여자대학교 SW중심대학사업단 2024 DACOS&SOLUX 연합해커톤 </br>

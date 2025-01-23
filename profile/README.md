@@ -50,9 +50,9 @@
 
 | **항목**       | **내용**                                                                 |
 |----------------|-------------------------------------------------------------------------|
-| **대회 이름**   | [2024 DACOS&SOLUX 연합해커톤](https://sm-solux.github.io/dxs-hackathon/#/hackathon)       |
-| **주최**       | 숙명여자대학교 SW중심대학사업단                                                      |
-| **수상 내역**   | [최우수상](https://sm-solux.dev/153)                                               |
+| **대회 이름**   | [2024 All-In 코딩 공모](https://spartacodingclub.kr/site/all-in-challenge)       |
+| **주최**       | 스파르타코딩클럽, 크래프톤 정글                                                      |
+| **수상 내역**   | [우수상](https://sm-solux.dev/153)                                               |
 
 </br>
 
